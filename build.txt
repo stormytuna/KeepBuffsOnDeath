@@ -1,0 +1,3 @@
+displayName = Keep Buffs on Death
+author = stormytuna
+version = 0.1
