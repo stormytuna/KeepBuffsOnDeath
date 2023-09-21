@@ -1,0 +1,11 @@
+Keep Buffs on Death does exactly that - allows you to keep buffs after you die
+
+Features a minimal config, allowing you to keep debuffs, or have a multiplier to the buff time when reapplied
+
+Changelog
+[list]
+[*][i]v1.0.0[/i]
+[list]
+[*]Released
+[/list]
+[/list]

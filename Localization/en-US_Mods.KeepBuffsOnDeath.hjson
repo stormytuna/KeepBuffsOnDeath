@@ -1,1 +1,15 @@
-# This file will automatically update with entries for new content after a build and reload
+Configs: {
+	KeepBuffsOnDeathConfig: {
+		DisplayName: Keep Buffs On Death Config
+
+		KeepDebuffs: {
+			Label: Keep Debuffs
+			Tooltip: ""
+		}
+
+		BuffTimeMultiplier: {
+			Label: Buff Time Multiplier
+			Tooltip: ""
+		}
+	}
+}
